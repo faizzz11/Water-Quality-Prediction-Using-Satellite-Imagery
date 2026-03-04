@@ -1,3 +1,4 @@
 /models
 /processed_data/full_dataset_processed.csv
 /processed_data/dataset_with_classes.csv
+.DS_Store
